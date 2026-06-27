@@ -67,7 +67,7 @@ no trend analysis, and no rep-level performance tracking.
 ## Screenshots
 
 ### MIS Dashboard
-![MIS Dashboard](screenshots/01_MIS_Dashboard.png)
+01_MIS_Dashboard.png
 
 ### Monthly Trend Table
 ![Monthly Trend](screenshots/02_Monthly_Trend_Table.png)
