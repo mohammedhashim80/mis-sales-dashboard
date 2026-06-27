@@ -22,11 +22,16 @@ sales rep scorecards — saving 5+ hours per reporting cycle.
 ---
 
 ## Screenshots
-![MIS Dashboard](screenshots/01_MIS_Dashboard.png)
-![Monthly Trend](screenshots/02_Monthly_Trend_Table.png)
-![Rep Performance](screenshots/03_Rep_Performance.png)
-![Regional Analysis](screenshots/04_Regional_Category_Analysis.png)
-![Raw Data](screenshots/05_Raw_Data_Preview.png)
+
+![MIS Dashboard](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/01_MIS_Dashboard.png)
+
+![Monthly Trend](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/02_Monthly_Trend_Table.png)
+
+![Rep Performance](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/03_Rep_Performance.png)
+
+![Regional Analysis](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/04_Regional_Category_Analysis.png)
+
+![Raw Data](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/05_Raw_Data_Preview.png)
 
 ---
 
