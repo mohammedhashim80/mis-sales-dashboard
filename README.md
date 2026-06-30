@@ -23,15 +23,16 @@ sales rep scorecards — saving 5+ hours per reporting cycle.
 
 ## Screenshots
 
-![MIS Dashboard](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/01_MIS_Dashboard.png)
+![MIS Dashboard](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/01_MIS_Dashboard.png)
 
-![Monthly Trend](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/02_Monthly_Trend_Table.png)
+![Monthly Trend](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/02_Monthly_Trend_Table.png)
 
-![Rep Performance](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/03_Rep_Performance.png)
+![Rep Performance](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/03_Rep_Performance.png)
 
-![Regional Analysis](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/04_Regional_Category_Analysis.png)
+![Regional Analysis](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/04_Regional_Category_Analysis.png)
 
-![Raw Data](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/screenshots/05_Raw_Data_Preview.png)
+![Raw Data](https://raw.githubusercontent.com/mohammedhashim80/mis-sales-dashboard/main/05_Raw_Data_Preview.png)
+
 
 ---
 
